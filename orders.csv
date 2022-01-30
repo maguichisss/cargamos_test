@@ -1,0 +1,16 @@
+sku,size,created_at,seconds,expired_at,address_line_1,postal_code,locality,city,state,country,address_line_2,notes
+sku_one,0,2021-12-01,5184000,2021-12-01 12:11:10,calle1,12345,colonia1,ciudad1,estado1,pais1,,
+null,3,,60,2022-03-06,calle2,12345,colonia2,ciudad2,estado2,pais2,#123,muy lejos
+None,,04-12-2021,,05-12-2021,calle3,12345,colonia3,ciudad3,estado3,pais3,,
+,big,,,2022-01-30,calle4,12345,colonia4,ciudad4,estado4,pais4,321,
+emptyX,,2021_12_01 12:11:10,3600,,calle5,12345,colonia5,ciudad5,estado5,pais5,,casa roja
+emptyX,,2021-12-01 12:11:10,3600,,calle5,12345,colonia5,ciudad5,estado5,pais5,,casa roja
+other,21,,,,calle6,12345,colonia6,ciudad6,estado6,pais6,,
+1231231123,,,10,,calle7,12345,colonia7,ciudad7,estado7,pais7,,en la esquina
+new_sku,,2021-12-01,5184000,2021-12-01 12:11:10,calle1,12345,colonia1,ciudad1,estado1,pais1,,
+,small,,60,2022-03-06,calle2,12345,colonia2,ciudad2,estado2,pais2,#123,muy lejos
+sku,,04-12-2021,,05-12-2021,calle3,12345,colonia3,ciudad3,estado3,pais3,,
+sku,big,,,2022-01-30,calle4,12345,colonia4,ciudad4,estado4,pais4,321,
+emptyX,,2021-12-01 12:11:10,3600,,calle5,12345,colonia5,ciudad5,estado5,pais5,,casa roja
+emptyX,21,,,,calle6,12345,colonia6,ciudad6,estado6,pais6,,
+emptyX,,,10,,calle7,12345,colonia7,ciudad7,estado7,pais7,,en la esquina
